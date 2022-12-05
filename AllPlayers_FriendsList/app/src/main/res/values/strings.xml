@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AllPlayers_FriendsList</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_new_contact">Add Contact</string>
+    <string name="add_user_name">Username</string>
+    <string name="save_contact">Add as Friend</string>
+    <string name="added_contact">Contact Added</string>
+    <string name="error">%1$s</string>
+    <string name="edit_contact">Edit Contact</string>
+    <string name="update_contact">Update Contact</string>
+</resources>

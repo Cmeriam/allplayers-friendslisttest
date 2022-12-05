@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1084445089438",
+    "firebase_url": "https://allplayers-2b6d8-default-rtdb.firebaseio.com",
+    "project_id": "allplayers-2b6d8",
+    "storage_bucket": "allplayers-2b6d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084445089438:android:0f6b8505c73a5d6d2de58f",
+        "android_client_info": {
+          "package_name": "edu.farmingdale.alrajab.allplayers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084445089438-0dm42eccvs16s809lukvosf4rkts4vre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMAVBUQaLn6zhaXseIWzmPbK4mLzQMSus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084445089438-0dm42eccvs16s809lukvosf4rkts4vre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084445089438:android:e768627e34fe87db2de58f",
+        "android_client_info": {
+          "package_name": "edu.farmingdale.alrajab.allplayers_friendslist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084445089438-h6g81f2igl5ruttfhqmno6i01r0d3nr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.farmingdale.alrajab.allplayers_friendslist",
+            "certificate_hash": "6fb6d4d669a095b1159f0081e1d4c3b373aef1da"
+          }
+        },
+        {
+          "client_id": "1084445089438-0dm42eccvs16s809lukvosf4rkts4vre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMAVBUQaLn6zhaXseIWzmPbK4mLzQMSus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084445089438-0dm42eccvs16s809lukvosf4rkts4vre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
